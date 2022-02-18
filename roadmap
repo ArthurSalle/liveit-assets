@@ -1,0 +1,14 @@
+4 api : - getAssetsCategories
+        - getAssetLists
+        - getUsersAssets
+        - getUsers
+
+Layout : - SideBar
+         - SideBar récap assets
+         - Tags + SearchBar
+         - Assets par Categories + details
+         - Disabled si rupture
+         - CTA ouvre popup info
+         - CTA signaler un pb
+
+Router : /assets

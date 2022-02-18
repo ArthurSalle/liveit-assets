@@ -1,0 +1,70 @@
+{
+  "assets": [
+    {
+      "model_id": 1,
+      "type": "computer",
+      "subtype": "pc",
+      "brand": "dell",
+      "model": "xps",
+      "version": "2019",
+      "model_status": ["stock", "rupture"],
+      "available_date": "2022-03-01",
+      "population_target": ["dev", "manager"]
+    },
+    {
+      "model_id": 2,
+      "type": "computer",
+      "subtype": "macbook",
+      "brand": "apple",
+      "model": "macbook air",
+      "version": "2020",
+      "model_status": ["stock", "rupture"],
+      "available_date": "2022-02-23",
+      "population_target": ["dev", "manager"]
+    },
+    {
+      "model_id": 3,
+      "type": "computer",
+      "subtype": "pc",
+      "brand": "lenovo",
+      "model": "len",
+      "version": "2021",
+      "model_status": ["stock", "rupture"],
+      "available_date": "2022-03-01",
+      "population_target": ["manager"]
+    },
+    {
+      "model_id": 4,
+      "type": "computer",
+      "subtype": "macbook",
+      "brand": "apple",
+      "model": "macbook pro",
+      "version": "2022",
+      "model_status": ["stock", "rupture"],
+      "available_date": "2022-02-23",
+      "population_target": ["dev", "designer", "manager"]
+    },
+    {
+      "model_id": 5,
+      "type": "phone",
+      "subtype": "iphone",
+      "brand": "apple",
+      "model": "iphone 12",
+      "version": "2021",
+      "model_status": ["stock", "rupture"],
+      "available_date": "2022-03-15",
+      "population_target": ["dev", "designer", "manager"]
+    },
+    {
+      "model_id": 6,
+      "type": "phone",
+      "subtype": "galaxy",
+      "brand": "samsung",
+      "model": "galaxy s3",
+      "version": "2020",
+      "model_status": ["stock", "rupture"],
+      "available_date": "2022-03-15",
+      "population_target": ["dev", "designer", "manager"]
+    }
+  ]
+}
